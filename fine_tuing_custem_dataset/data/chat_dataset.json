@@ -1,0 +1,22 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the answer to life?"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is 42."
+            },
+            {
+                "from": "human",
+                "value": "That's ridiculous"
+            },
+            {
+                "from": "gpt",
+                "value": "Oh I know."
+            }
+        ]
+    }
+]
